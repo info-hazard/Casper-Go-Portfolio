@@ -40,7 +40,8 @@ https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
 ### Hover Soft Transition CSS
 https://css-tricks.com/css-link-hover-effects/
 
-```a {
+```
+a {
   box-shadow: inset 0 0 0 0 #54b3d6;
   color: #54b3d6;
   margin: 0 -.25rem;
