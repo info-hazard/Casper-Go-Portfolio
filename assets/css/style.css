@@ -22,12 +22,13 @@ a:hover {
 h1 {
     display: inline-block;
     font-size: 48px;
-    color: aliceblue;
+    color: white;
 }
 
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    color: white;
 }
 
 h3 {
@@ -75,7 +76,36 @@ body {
 }
 
 main {
-    background-color: white;
-    padding: 50px;
+    background-color: grey;
     height: 700px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.sidebar{
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    border: 4px dotted;
+    top: 60px;
+}
+
+#aboutme {
+    height: 200px;
+    background-color: grey;
+}
+
+#contactinfo {
+    height:200px;
+    background-color: grey;
+    text-align: center;
+}
+
+#work {
+    position: absolute;
+    right: 50%;
+    display: inline-block;
+    height:auto;
+    margin:auto;
 }
