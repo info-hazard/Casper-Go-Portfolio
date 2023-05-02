@@ -27,6 +27,10 @@ h2 {
     text-align: center;
 }
 
+p {
+    color: white;
+}
+
 #exclamation {
     color: red
 }
@@ -40,7 +44,7 @@ header {
     width:100vw;
     padding: 20px;
     font-family: 'Helvetica', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(121, 70, 70);
+    background-color: grey;
     color: #ffffff;
 }
 
@@ -66,7 +70,7 @@ body {
 
 #work {
     flex: 1;
-    background-color: rgb(121, 0, 0);
+    background-color: grey;
 }
 
 .horiseon {
@@ -84,15 +88,11 @@ body {
 }
 
 #aboutme {
-    background-color: rgb(219, 160, 160);
+    background-color: grey;
 }
 
 #contactinfo {
-    background-color: rgb(157, 194, 197);
-}
-
-#footer {
-    background-color: blanchedalmond;
+    background-color: grey;
 }
 
 @media screen and (min-width: 640px) {
