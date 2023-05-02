@@ -6,13 +6,13 @@ Through much trial and error I've learned various things pertaining to media que
 
 ## Installation
 
-No Install required to view this webpage just visit it here at "placeholder link"
+No Install required to view this webpage just visit it here at https://info-hazard.github.io/Zachariah-Go-Portfolio/
 
 ## Usage
 TO view this website visit the link in Installation
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/Portfolio.png)
     ```
 
 ## Credits
