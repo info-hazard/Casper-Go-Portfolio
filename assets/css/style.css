@@ -24,6 +24,7 @@ h1 {
 h2 {
     font-size: 36px;
     color: white;
+    text-align: center;
 }
 
 #exclamation {
@@ -43,7 +44,7 @@ header {
     color: #ffffff;
 }
 
-header img {
+.avatar {
     width: 50px;
 }
 
@@ -65,10 +66,21 @@ body {
 
 #work {
     flex: 1;
+    background-color: rgb(121, 0, 0);
+}
+
+.horiseon {
+    max-width: 50%;
+}
+
+.placeholder {
+    max-width: 15%;
 }
 
 #sidebar{
     flex: 0 1 300px;
+    display: flex;
+    flex-direction: column;
 }
 
 #aboutme {
@@ -77,10 +89,6 @@ body {
 
 #contactinfo {
     background-color: rgb(157, 194, 197);
-}
-
-#work {
-    background-color: rgb(121, 0, 0);
 }
 
 #footer {
