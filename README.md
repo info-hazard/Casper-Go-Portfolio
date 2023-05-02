@@ -9,7 +9,7 @@ Through much trial and error I've learned various things pertaining to media que
 No Install required to view this webpage just visit it here at https://info-hazard.github.io/Zachariah-Go-Portfolio/
 
 ## Usage
-TO view this website visit the link in Installation
+To view this website visit the link in Installation
 
 ![alt text](./assets/images/Portfolio.png)
 
