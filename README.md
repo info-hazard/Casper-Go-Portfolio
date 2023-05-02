@@ -11,7 +11,7 @@ No Install required to view this webpage just visit it here at https://info-haza
 ## Usage
 TO view this website visit the link in Installation
 
-    ![alt text](assets/images/Portfolio.png)
+![alt text](./assets/images/Portfolio.png)
 
 ## Credits
 
