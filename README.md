@@ -54,6 +54,22 @@ a:hover {
 }
 ```
 
+### Stretching Body to Full Viewport Height
+https://dev.to/fenok/stretching-body-to-full-viewport-height-the-missing-way-2ghd#:~:text=Here%2C%20100vh%20means%20that%20the,grow%20even%20more%20if%20necessary.
+
+```
+html {
+    min-height: 100%; /* Look, it's not fixed anymore! */
+
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    flex-grow: 1;
+}
+```
+
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
